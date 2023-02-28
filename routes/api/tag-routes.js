@@ -45,12 +45,19 @@ router.get('/:id', (req, res) => {
 
 // Create a new tag
 router.post('/', (req, res) => {
-
+  Tag.create({
+    tag_name: req.body.tag_name
+  })
+    .then(dbTagData => res.json(dbTagData))
+    .catch(err => {
+      console.log(err);
+      res.status(500).json(err);
+    });
 });
 
 // Update a tag's name by its `id` value
 router.put('/:id', (req, res) => {
-
+  
 });
 
 // Delete on tag by its `id` value
