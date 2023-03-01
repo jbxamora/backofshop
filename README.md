@@ -55,6 +55,12 @@ Enter PW when promted
 
 ## Demo
 
+### Category Routes
+
+### Product Routes
+
+### Tag Routes
+
 ## Code Snippets
 
 ### GET ROUTE for Tags
