@@ -57,9 +57,21 @@ Enter PW when promted
 
 ### Category Routes
 
+
+https://user-images.githubusercontent.com/113067058/222092196-de59b7a8-59e6-4ed2-9319-52ecf388c222.mov
+
+
 ### Product Routes
 
+
+https://user-images.githubusercontent.com/113067058/222092252-ad88716c-fd26-4126-97e8-50d546373f45.mov
+
+
 ### Tag Routes
+
+
+https://user-images.githubusercontent.com/113067058/222092278-941165df-764b-4d89-8014-1fc0bdca2dc1.mov
+
 
 ## Code Snippets
 
