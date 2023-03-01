@@ -26,7 +26,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-To install and run Note Taker on your local machine, follow these steps:
+To install and run on your local machine, follow these steps:
 
 - Clone this repository to your local machine
 - Install the necessary dependencies
